@@ -1,5 +1,5 @@
 # vueJS
-This project is for other aims and there is no any other destiantion for public using
+This project is setup native vue cli project with preconfigured congigs
 
 
 # Used technologies and npm
